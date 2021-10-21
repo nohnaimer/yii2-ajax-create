@@ -18,11 +18,11 @@
     ],
     "require": {
         "yiisoft/yii2": "2.0.*",
-        "yiisoft/yii2-bootstrap4": "2.0.*",
+        "yiisoft/yii2-bootstrap5": "2.0.*",
         "bower-asset/jquery-form": "4.*"
     },
     "require-dev": {
-        "roave/security-advisories": "dev-master"
+        "roave/security-advisories": "dev-latest"
     },
     "autoload": {
         "psr-4": {
@@ -31,7 +31,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.2.x-dev"
+            "dev-master": "0.3.x-dev"
         }
     },
     "repositories": [

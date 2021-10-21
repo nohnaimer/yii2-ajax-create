@@ -13,7 +13,7 @@ use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
 use yii\helpers\Json;
 use yii\widgets\Pjax;
-use yii\bootstrap4\Modal;
+use yii\bootstrap5\Modal;
 
 /**
  * Class AjaxCreate
